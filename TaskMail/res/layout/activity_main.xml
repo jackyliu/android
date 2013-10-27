@@ -21,4 +21,13 @@
         android:layout_below="@+id/textView1"
         android:text="@string/go_to_login" />
 
+    <Button
+        android:id="@+id/afinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="19dp"
+        android:text="@string/afinal" />
+
 </RelativeLayout>
